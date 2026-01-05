@@ -1,6 +1,3 @@
-# rag_resume_chatbot
-Resume RAG Chatbot - Upload PDF resumes and ask AI-powered questions. Built with Streamlit, LangChain, FAISS, and Groq API for intelligent document analysis.
-
 # Resume RAG Chatbot
 
 A Streamlit-based Retrieval-Augmented Generation (RAG) chatbot that allows users to upload PDF resumes and ask questions about them using AI.
