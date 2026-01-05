@@ -1,0 +1,3 @@
+Bhanu is a BTech AI-ML student.
+He is learning LangChain, RAG, and Streamlit.
+He wants to build an AI chatbot using Google Gemini.
